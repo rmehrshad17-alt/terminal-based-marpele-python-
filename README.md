@@ -52,4 +52,4 @@ Make sure you have Python 3 installed.
 Run the game using:
 
 ```bash
-python game.py
+marpele.py
